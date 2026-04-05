@@ -5,7 +5,7 @@ Preview of the website:
 
 It looks very plain and lackluster. Probably very "AI" look too(?)
 
-I'm a beginner so there's nothing I can do about it.
+I'm a beginner so there's nothing I can do about it but learn.
 
 I reference some of the design on the website of "NoisyPixel" and I give them full credit.
 
